@@ -1,0 +1,3 @@
+# runtime deps — telegram framework + typed settings
+aiogram==3.28.2
+pydantic-settings==2.14.1
